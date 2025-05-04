@@ -1,6 +1,8 @@
 # Cloud File Storage System
 
 This is a cloud file storage system with a Spring Boot backend and Angular frontend. The system provides secure file storage and management capabilities.
+![image](https://github.com/user-attachments/assets/34376c1c-7181-46ab-a86b-3a7fe2d5e052)
+
 
 ## Backend Setup
 
