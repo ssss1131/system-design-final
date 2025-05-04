@@ -49,3 +49,5 @@ npm install -g @angular/cli
 ```
 
 you can access throw localhost:4200
+
+when you do some operation it may require reloading page to see the result
