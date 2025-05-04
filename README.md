@@ -28,7 +28,7 @@ The backend will start on the default port 8080.
 
 ## Frontend Setup
 
-1. Navigate to your Angular project directory:
+1.clone
 ```bash
 git clone https://github.com/ssss1131/Filo-frontend
 cd Filo-frontend
@@ -42,6 +42,10 @@ npm install
 3. Start the development server:
 ```bash
 ng serve
+```
+if error try:
+```bash
+npm install -g @angular/cli
 ```
 
 you can access throw localhost:4200
