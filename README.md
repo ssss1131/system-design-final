@@ -4,6 +4,12 @@ This is a cloud file storage system with a Spring Boot backend and Angular front
 ![image](https://github.com/user-attachments/assets/34376c1c-7181-46ab-a86b-3a7fe2d5e052)
 
 
+minimum you need to have
+Docker Desktop
+Git
+Java 17+
+Node.js (with npm)
+
 ## Backend Setup
 
 1. Clone the repository:
