@@ -50,4 +50,4 @@ npm install -g @angular/cli
 
 you can access throw localhost:4200
 
-when you do some operation it may require reloading page to see the result
+when you do some operation it may require reloading page to see the result and number that show progress bar is placeholder(I did not have time to do it)
